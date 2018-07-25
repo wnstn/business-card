@@ -25,7 +25,7 @@ header {
 }
 
 .rotator {
-  transform: rotate(-3deg) scale(1.05) translateX(10px);
+  transform: rotate(-2deg) scale(1.05) translateX(10px);
 }
 
 p {
