@@ -1,0 +1,13 @@
+{
+  "name": "business-card",
+  "version": "1.0.0",
+  "description": "personal business card site",
+  "main": "./src/index.html",
+  "repository": "git@github.com:wnstn/business-card.git",
+  "author": "hello@wnstn.com",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.24.6"
+  }
+}
